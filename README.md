@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p> This README is currently a work in progress.</p>
+<h2 align="center">About me</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tangalbert919" width=400 />
+</p>
