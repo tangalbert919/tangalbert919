@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <p> This README is currently a work in progress.</p>
 <h2 align="center">Current projects</h2>
 <ul>
-  <li>LineageOS maintainer for the OnePlus 9</li>
+  <li>LineageOS maintainer for:
+    <li>OnePlus 9</li>
+    <li>OnePlus Nord N200</li>
+  </li>
   <li>Ungoogled-chromium for FreeBSD</li>
   <li>Chromium Canary for Arch Linux</li>
 </ul>
