@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <h2 align="center">Current projects</h2>
 <ul>
   <li>LineageOS maintainer for:
-    <li>OnePlus 9</li>
-    <li>OnePlus Nord N200</li>
+    <ul>
+      <li>OnePlus 9</li>
+      <li>OnePlus Nord N200</li>
+    </ul>
   </li>
   <li>Ungoogled-chromium for FreeBSD</li>
   <li>Chromium Canary for Arch Linux</li>
