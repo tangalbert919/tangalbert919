@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **tangalbert919/tangalbert919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,40 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a backend developer, but currently learning how to be a fullstack developer! My current interests are in mobile development (primarily Android), artificial intelligence and machine learning! I typically work on random projects in my spare time!
-<h2 align="center">Current projects</h2>
+## About Me
 
-- LineageOS Maintainer for:
-  - OnePlus 9
-  - OnePlus Nord N200
-- Gigabyte Control Center for Linux
-- Kernel Driver for Gigabyte Aero/AORUS laptops
+<p align="center">🎓Computer Science @ UTD</p>
+<p align="center">🖥️Junior Software Developer</p>
+<p align="center">📝Currently working on kernel drivers, web applications, and other random projects</p>
+<p align="center">🔎Specializes in backend development, but learning full-stack</p>
 
-<p>To see more, click on the repositories tab.</p>
-<h2 align="center">About me</h2>
+## Skills and interests
 
-### Languages I actively use:
+### Languages:
 <p align="center">
   <a href="https://skillsicon.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,kotlin,py&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,kotlin,py&perline=5" />
   </a>
 </p>
 
-### Languages I know, but don't use:
+### Frameworks or tools:
 <p align="center">
   <a href="https://skillsicon.dev">
-    <img src="https://skillicons.dev/icons?i=java&perline=5" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,django,dotnet,idea,linux,pytorch,qt,vim,visualstudio,vscode&perline=5" />
   </a>
 </p>
 
-### Known frameworks or tools:
+### Stats:
 <p align="center">
-  <a href="https://skillsicon.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,django,dotnet,git,github,idea,linux,pytorch,qt,vim,visualstudio,vscode&perline=5" />
-  </a>
-</p>
-
-<h3>Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tangalbert919" width=400 />
+  <img src="https://github-readme-stats.vercel.app/api?username=tangalbert919&show_icons=true&theme=dark" width=400 />
 </p>
